@@ -16,7 +16,7 @@
 class Base:
     def __init__(self):
         self.a = "Bhavesh Mali"
-        self.__c = "Bhavesh Mali"
+        self.__c = "shiva.." 
 
 # Creating a derived class
 class Derived(Base):
@@ -32,6 +32,7 @@ class Derived(Base):
 # Driver code
 obj1 = Base()
 print(obj1.a)
+print(obj1.c)
 
 # Uncommenting print(obj1.c) will
 # raise an AttributeError

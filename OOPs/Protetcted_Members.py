@@ -5,7 +5,7 @@
 
 # Although the protected variable can be accessed out of the class as well as in the derived class (modified too in derived class), it is customary(convention not a rule) to not access the protected out the class body.
 
-# Note: The __init__ method is a constructor and runs as soon as an object of a class is instantiated. 
+# Note: The __init__ method is a constructor and runs as soon as an object of a class is create. 
 
 # Python program to
 # demonstrate protected members
@@ -13,6 +13,7 @@
 # Creating a base class
 class Base:
     def __init__(self):
+    
 
         # Protected member
         self._a = 2

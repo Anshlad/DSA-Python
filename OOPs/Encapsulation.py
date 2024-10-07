@@ -40,3 +40,5 @@
 # 3. Improved Maintenance: Changes to the internal implementation of a class do not affect code that uses the class, as long as the public interface remains unchanged.
 
 # 4. Enhanced Flexibility: Encapsulation promotes modular design, making it easier to modify or extend functionality without impacting other parts of the program.
+
+ 
