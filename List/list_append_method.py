@@ -29,8 +29,10 @@ wild_animals = ['tiger', 'fox']
 
 # appending wild_animals list to animals
 animals.append(wild_animals)
+wild_animals.append(animals)
 
 print('Updated animals list: ', animals)
+print('Updated animals list: ', wild_animals)
 
 
 

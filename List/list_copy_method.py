@@ -1,7 +1,7 @@
 # The copy() method returns a shallow copy of the list.
 
 # copy() Syntax
-# new_list = list.copy()
+new_list = list.copy()
 
 
 # mixed list
