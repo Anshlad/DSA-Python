@@ -1,6 +1,6 @@
-# DSA With Python: LeetCode & GFG Questions
+# Leetcode & GFG Questions Checklist ✅
 
-This repository contains solutions to various Data Structures and Algorithms (DSA) problems from GeeksforGeeks (GFG) and LeetCode. The problems are categorized into **Arrays**, **2D Arrays**, and **Strings**.
+A comprehensive list of questions from Leetcode and GeeksforGeeks organized by topics for structured practice.
 
 ---
 
@@ -17,18 +17,19 @@ This repository contains solutions to various Data Structures and Algorithms (DS
 9. [Kadane's Algorithm](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 10. [Minimize the Heights](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1)
 11. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+12. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
 ---
 
 ## 2D Arrays
 
 1. [Binary Search](https://leetcode.com/problems/binary-search/description/)
-2. [Search Insert Position](https://leetcode.com/problems/search-insert-position/description)
+2. [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 3. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
 4. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 5. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 6. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
-7. [Row with Maximum 1s](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=row-with-max-1s)
+7. [Row with Max 1s](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=row-with-max-1s)
 
 ---
 
@@ -42,4 +43,26 @@ This repository contains solutions to various Data Structures and Algorithms (DS
 6. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 7. [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
 8. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+9. [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/)
 
+---
+
+## Linked List
+
+1. [Introduction to Linked List](https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-linked-list)
+2. [Search in Linked List](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1)
+3. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+4. [Finding Middle Element in a Linked List](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
+5. [Reverse a Linked List](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
+6. [Introduction to Doubly Linked List](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/0)
+7. [Insert a Node in Doubly Linked List](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1)
+8. [Delete Node in Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1)
+9. [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)
+10. [Word Subsets](https://leetcode.com/problems/word-subsets/description/?envType=daily-question&envId=2025-01-10)
+11. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
+12. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+13. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
+
+---
+
+### Happy Coding! 🚀
