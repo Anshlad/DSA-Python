@@ -65,4 +65,14 @@ A comprehensive list of questions from Leetcode and GeeksforGeeks organized by t
 
 ---
 
+## Stack
+
+1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+2. [Remove All Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+3. [Removing Stars from a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
+4. [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
+5. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
+
+---
+
 ### Happy Coding! 🚀
