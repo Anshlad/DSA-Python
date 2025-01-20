@@ -75,4 +75,15 @@ A comprehensive list of questions from Leetcode and GeeksforGeeks organized by t
 
 ---
 
+## Queue
+
+1. [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+2. [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)
+3. [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
+4. [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+5. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+6. [Reveal Cards in Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
+
+---
+
 ### Happy Coding! 🚀
